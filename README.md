@@ -43,10 +43,4 @@ Additionally, we implemented **secure authentication and data protection** for u
 
 ---
 
-### **Additional Recommendations:**  
-- **Simulate Sensor Data** in Python (e.g., generate random values for temperature & motion).  
-- **Use Fritzing** to create a **circuit diagram** for visualization.  
-- **If you wrote an Arduino script**, include it under a `Firmware/` folder.  
-- **Document Security Implementation** in the `Security/` folder.  
 
-Would you like a **sample Python script** for sensor data simulation? Let me know! 🚀
